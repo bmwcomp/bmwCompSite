@@ -3,6 +3,8 @@ header:
     url: /biography.html
   - title : Work
     url: /work.html
+  - title : Performances
+    url : /performances.html
   - title : Contact
     url: /contact.html
 
