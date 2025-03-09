@@ -1,12 +1,12 @@
 header:
   - title : test 1
-  url: /test1.html
+    url: /test1.html
   - title : test 2
-  url: /test2.html
+    url: /test2.html
   - title : test 3
-  url: /test3.html
+    url: /test3.html
   - title : test 4
-  url: /test4.html
+    url: /test4.html
 
   
   - titles:
