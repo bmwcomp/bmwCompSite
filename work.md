@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Page - Sidebar
+title: List of Works
 aside:
   toc: true
 sidebar:
