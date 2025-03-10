@@ -4,8 +4,6 @@ title: List of Works
 description: Full List of Work
 aside:
   toc: true
-sidebar:
-  nav: layouts
 ---
 
 <h5>Notice</h5>
