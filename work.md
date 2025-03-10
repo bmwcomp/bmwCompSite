@@ -17,7 +17,7 @@ sidebar:
 
 ## List of Works
 
-#### SOLO
+### SOLO
 
 Skyppan (2024)
 Basset Clarinet
