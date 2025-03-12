@@ -9,7 +9,7 @@ header:
     url: /contact.html
 
   
-  - titles:
+ # - titles:
       # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
@@ -33,4 +33,4 @@ header:
       fr-LU   : *FR
       tr      : &TR       Arşivdekiler
       # @end locale config
-    url: /archive.html
+  #  url: /archive.html
