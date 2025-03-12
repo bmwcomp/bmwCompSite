@@ -14,39 +14,37 @@ article_header:
 
 Bethan’s music has been performed in the UK, Europe, and the USA, with upcoming performances in the Germany, Estonia, Slovenia and the UK. The Birmingham Contemporary Music Group has committed to featuring Bethan’s work in the upcoming season. In addition to the recent performance of Voices Go With You, this will include the commissioning of a new full-ensemble piece, scheduled to premiere next June. They are currently accepting donations to support Bethan’s commission fee. Please consider giving generously!
 
-2 November 2024
-Ffarwel i Uli – for amplified violin & ring modulator
-Performance by Hannah Weirich, MUBA Chamber Music Hall, Tallinn (EE). Start time 4pm EEST.
+### 22 June 2025
+Trying to Use Words – for harp & dancer World premiere by Jenna Vergeynst & Myrthe Bokelmann
+Details TBC
+
+### 22 June 2025
+Ildio – for twelve players World premiere by the Birmingham Contemporary Music Group. Time tbc.
 Tickets
 
-3 November 2024
-Gêmdisyn – for solo E-flat clarinet
-Performance by Carl Rosman, MUBA Chamber Music Hall, Tallinn (EE). Start time 4pm EEST.
-Tickets
+##### 25 May 2026
+Gormod – for oboe, basset clarinet, euphonium, viola & cello Performance by Collegium Novum Zürich Details TBC
+
+## Past Events
+
+#### 22 February 2025
+Performance of Ffarwel i Uli by Hannah Weirich, WDR Funkhaus (Köln, DE).
+
+#### 22 January 2025 LSO Panufnik Composers Scheme Panel (London, UK).
+
+#### 2 December 2024
+Performance of Ffarwel i Uli by Hannah Weirich, Koncertna Dvorana GŠ (Koper, SI). 
 
 23 November 2024
-Gormod – for oboe, basset clarinet, euphonium, viola & cello
-Performance by Ensemble Musikfabrik, WDR Funkhaus Köln (DE). Start time 8pm CET.
-Tickets
+Performance of Gormod by Ensemble Musikfabrik, WDR Funkhaus (Köln, DE).
 
-2 December 2024
-Ffarwel i Uli – for amplified violin & ring modulator
-Performance by Hannah Weirich, Koper (SI). Time tbc.
+3 November 2024 Performance of Gêmdisyn by Carl Rosman, MUBA Chamber Music Hall (Tallinn, EE). 
 
-22 June 2025
-Ildio – for twelve players
-World premiere by the Birmingham Contemporary Music Group. Time tbc.
-Donate
+2 November 2024 Performance of Ffarwel i Uli by Hannah Weirich, MUBA Chamber Music Hall (Tallinn, EE). 
 
---------------------------------------------------------------------------------
+15 September 2024 Performance of Voices Go With You by the Birmingham Contemporary Music Group, CBSO Centre (Birmingham, UK).
 
-## Past performances
-
-15 September 2024
-Performance of Voices Go With You by the Birmingham Contemporary Music Group, CBSO Centre Birmingham (UK).
-
-15 September 2024
-Performance of Ffarwel i Uli by Hannah Weirich, Alte Kirche St. Martinus, Stommeln (DE).
+15 September 2024 Performance of Ffarwel i Uli by Hannah Weirich, Alte Kirche St. Martinus (Stommeln, DE).
 
 20 March 2024
 World premiere of Gormod by Ensemble Musikfabrik, Radialsystem Berlin (DE).
@@ -58,7 +56,7 @@ World premiere of Ffarwel i Uli by Hannah Weirich, Studio des Ensemble Musikfabr
 World premiere of Fleck by Marcin Domagala, Yui Matsunaga and Yona Su, Lichtenbergschule (Darmstadt, DE).
 
 15 August 2023
-Performance of Ghost Tongues by Mivos Quartet, Wilhelm-Petersen-Saal, Akademie für Tonkunst (Darmstadt, DE).
+Performance of Ghost Tongues by Mivos Quartet, Wilhelm-Petersen-Saal, Akademie für Tonkunst (Darmstadt, DE).
 
 11 August 2023
 World premiere of für Maaria by Maaria Pulakka, Lotte Krüger and Bethan Morgan-Williams, Wilhelm-Petersen-Saal, Akademie für Tonkunst (Darmstadt, DE).
@@ -91,25 +89,25 @@ World premiere of Parti Di-ffiniau by the City of Birmingham Symphony Orchestra 
 World premiere of Gêmdis by Ensemble Musikfabrik (cond. Christian Eggen), WDR Funkhaus (Köln, DE).
 
 1 June 2022
-Performance of Devil’s Elbow by Uproar Ensemble, Klang Acousmonium (Montpellier, FR).
+Performance of Devil’s Elbow by Uproar Ensemble, Klang Acousmonium (Montpellier, FR).
 
 20 May 2022
-Performance of Devil’s Elbow by Uproar Ensemble, Galeri (Caernarfon, UK).
+Performance of Devil’s Elbow by Uproar Ensemble, Galeri (Caernarfon, UK).
 
 12 May 2022
-World premiere of Voices Go With You by Psappha Ensemble, Hallé St. Peter’s (Manchester, UK).
+World premiere of Voices Go With You by Psappha Ensemble, Hallé St. Peter’s (Manchester, UK).
 
 8 May 2022
-Performance of Devil’s Elbow by Uproar Ensemble, Arnolfini Arts (Bristol, UK).
+Performance of Devil’s Elbow by Uproar Ensemble, Arnolfini Arts (Bristol, UK).
 
 4 March 2022
-World premiere of Shivaree by Lucy Humphris, Royal Academy of Music (London, UK).
+World premiere of Shivaree by Lucy Humphris, Royal Academy of Music (London, UK).
 
 10 February 2022
-Performance of In Sleep Braces by Huw Morgan, St Mary Redcliffe (Bristol, UK).
+Performance of In Sleep Braces by Huw Morgan, St Mary Redcliffe (Bristol, UK).
 
 5 December 2021
-World premiere of Strumble Head by Bradley Johnson, Kings Place (London, UK).
+World premiere of Strumble Head by Bradley Johnson, Kings Place (London, UK).
 
 22 October 2021
 Performance of In the Crypt by Alex Edmundson & Bethan Morgan-Williams, LSO St. Luke’s (London, UK).
@@ -127,13 +125,13 @@ Performance of In Sleep Braces by Huw Morgan, St. Stephen’s Church (Bristol, U
 World premiere of Dog in the Moon by Antoine Tamestit & Colin Currie, LSO St. Luke’s (London, UK).
 
 7 August 2021
-World premiere of Gêmdisyn by Carl Rosman, Lichtenbergschule (Darmstadt, DE).
+World premiere of Gêmdisyn by Carl Rosman, Lichtenbergschule (Darmstadt, DE).
 
 27 July 2021
 Virtual premiere of Shilly Shally by Sarah Dacey & Christopher Williams, Cardiff University (UK).
 
 17 July 2021
-Performance of Traces of a Disco by Clare Findlater, Heather Roche, Jake Brown, Colin Alexander & Tom Goodman (cond. Darren Bloom), LSO St. Luke’s (London, UK).
+Performance of Traces of a Disco by Clare Findlater, Heather Roche, Jake Brown, Colin Alexander & Tom Goodman (cond. Darren Bloom), LSO St. Luke’s (London, UK).
 
 3 June 2021
 World premiere of Reverie by Elen Morgan-Williams, Guildhall School of Music & Drama (London, UK).
@@ -145,7 +143,7 @@ Performance of Speelklok II by Spaceship Ensemble (cond. Hardy Li), Studio Loos 
 Performance of In the Crypt by Dylan Dukat & Rob Zolner, Crane School of Music (NY, USA).
 
 30 December 2020
-Virtual premiere of Gêmdisyn performed live to video tape by Carl Rosman, Studio of Ensemble Musikfabrik (Köln, DE).
+Virtual premiere of Gêmdisyn performed live to video tape by Carl Rosman, Studio of Ensemble Musikfabrik (Köln, DE).
 
 3-4 November 2020
 Virtual premiere of Gêmdis by Carl Rosman & Ensemble Musikfabrik (cond. Christian Eggen), Studio of Ensemble Musikfabrik (Köln, DE).
@@ -158,12 +156,11 @@ Performance of In the Crypt by Ben Goldscheider & Pete Stollery, Sound Festival 
 
 5 October 2020
 World premiere of Demeter’s Cry by Fenella Humphreys, Iñigo Mikeleiz Berrade, Ben Griffiths & George Barton, Chiltern Arts Festival (Henley-on-Thames, UK).
+13 July 2020
+Performance of Datod by Hannah Weirich & Ulrich Löffler, Studio of Ensemble Musikfabrik (Köln, DE).
 
 13 July 2020
-Performance of Datod by Hannah Weirich & Ulrich Löffler, Studio of Ensemble Musikfabrik (Köln, DE).
-
-13 July 2020
-World premiere of Datod by Hannah Weirich & Ulrich Löffler, Studio of Ensemble Musikfabrik (Köln, DE).
+World premiere of Datod by Hannah Weirich & Ulrich Löffler, Studio of Ensemble Musikfabrik (Köln, DE).
 
 15-17 June 2020
 Composer Collider Europe, Phase 7 (online).
@@ -226,7 +223,7 @@ Composer Collider Europe, Phase 4 (Köln, DE).
 Performance of Severn by the New European Ensemble, Korzo Theatre (Den Haag, NL).
 
 16 March 2019
-Performance of Double Double (excerpt) by Equilibrium Ensemble, Music Room (Liverpool, UK).
+Performance of Double Double (excerpt) by Equilibrium Ensemble, Music Room (Liverpool, UK).
 
 12-14 March 2019
 Double Double recording session with Equilibrium Ensemble, The Friary (Liverpool, UK).
@@ -322,7 +319,7 @@ March 2015-March 2016
 LSO Panufnik Composers Scheme (London, UK).
 
 13 May 2015
-World premiere of In the Crypt by Alison Wilmshurst & Bethan Morgan-Williams, RNCM Concert Hall (Manchester, UK).
+World premiere of In the Crypt by Alison Wilmshurst & Bethan Morgan-Williams, RNCM Concert Hall (Manchester, UK).
 
 30 October 2013
 World premiere of A Thornbush In My Strength by Delia Stevens (The House of Bedlam), Carole Nash Hall (Manchester, UK).
