@@ -1,9 +1,18 @@
 ---
 layout: article
 title: Biography
+mode: immersive
 aside:
   toc: true
+header:
+  theme: dark
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#123'
+  background_image: false
 ---
+
 
 ## Full Bio (2023)
 
