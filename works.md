@@ -1,9 +1,16 @@
 ---
 layout: article
 title: List of Works
-description: Full List of Work
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#123'
+  background_image: false
 aside:
-  toc: true
+  toc: true  
 ---
 
 <h5>Notice</h5>
