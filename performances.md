@@ -14,11 +14,11 @@ article_header:
 
 Bethan’s music has been performed in the UK, Europe, and the USA, with upcoming performances in the Germany, Estonia, Slovenia and the UK. The Birmingham Contemporary Music Group has committed to featuring Bethan’s work in the upcoming season. In addition to the recent performance of Voices Go With You, this will include the commissioning of a new full-ensemble piece, scheduled to premiere next June. They are currently accepting donations to support Bethan’s commission fee. Please consider giving generously!
 
-#### _22 June 2025_
+#### <u>22 June 2025</u>
 Trying to Use Words – for harp & dancer World premiere by Jenna Vergeynst & Myrthe Bokelmann
 Details TBC
 
-#### _22 June 2025_
+#### <u>22 June 2025</u>
 Ildio – for twelve players World premiere by the Birmingham Contemporary Music Group. Time tbc.
 Tickets
 
