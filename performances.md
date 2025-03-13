@@ -14,23 +14,24 @@ article_header:
 
 Bethan’s music has been performed in the UK, Europe, and the USA, with upcoming performances in the Germany, Estonia, Slovenia and the UK. The Birmingham Contemporary Music Group has committed to featuring Bethan’s work in the upcoming season. In addition to the recent performance of Voices Go With You, this will include the commissioning of a new full-ensemble piece, scheduled to premiere next June. They are currently accepting donations to support Bethan’s commission fee. Please consider giving generously!
 
-### 22 June 2025
+#### _22 June 2025_
 Trying to Use Words – for harp & dancer World premiere by Jenna Vergeynst & Myrthe Bokelmann
 Details TBC
 
-### 22 June 2025
+#### _22 June 2025_
 Ildio – for twelve players World premiere by the Birmingham Contemporary Music Group. Time tbc.
 Tickets
 
-##### 25 May 2026
+#### _25 May 2026_
 Gormod – for oboe, basset clarinet, euphonium, viola & cello Performance by Collegium Novum Zürich Details TBC
 
 ## Past Events
 
-#### 22 February 2025
+#### _22 February 2025_
 Performance of Ffarwel i Uli by Hannah Weirich, WDR Funkhaus (Köln, DE).
 
-#### 22 January 2025 LSO Panufnik Composers Scheme Panel (London, UK).
+#### 22 January 2025 
+LSO Panufnik Composers Scheme Panel (London, UK).
 
 #### 2 December 2024
 Performance of Ffarwel i Uli by Hannah Weirich, Koncertna Dvorana GŠ (Koper, SI). 
