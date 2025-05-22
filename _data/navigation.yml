@@ -1,11 +1,10 @@
 header:
-  - title : Works
-    url: /works.html
   - title : Biography
     url: /biography.html
   - title : Performances
-    url : /performances.html
+    url: /performances.html
+  - title : Works
+    url: /works.html
   - title : Contact
-    url: /contact.html
-
-  
+    url: /contact.html 
+    
