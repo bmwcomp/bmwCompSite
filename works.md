@@ -11,6 +11,8 @@ article_header:
   background_image: false
 aside:
   toc: true  
+sidebar:
+  nav: layouts  
 ---
 
 <h5>Notice</h5>
